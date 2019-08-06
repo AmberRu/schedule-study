@@ -1,2 +1,7 @@
 # schedule-study
-good good study , day day up 
+
+ 书目|年月|进度|笔记
+ ---|:--:|:--:|---:
+ 内容|内容|内容|内容|
+
+
