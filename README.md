@@ -1,7 +1,7 @@
-# schedule-study
+# schedule-study 
+😛😝good good study,day day up 😉
 
- 书目|年月|进度|笔记
- ---|:--:|:--:|---:
- 内容|内容|内容|内容|
-
-
+name | 111 | 222 | 333 | 444
+:-: | :-: | :-: | :-: | :-:
+aaa | bbb | ccc | ddd | eee| 
+fff | ggg| hhh | iii | 000|
